@@ -6,3 +6,4 @@ This is a very simple python scrip I used to extract keywords to find the trandi
 
 It works with pytrends library, and take into consideration the last 7 days rising keywords.
 
+It can be used with a list of different topics, and it print out the most popular titles you should use for each topic you chose.
