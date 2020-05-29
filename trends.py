@@ -158,3 +158,5 @@ def tr(key_w):
     print ('_________________')
 
 ll=[]#your topic list
+for i in ll:
+        tr(i)
