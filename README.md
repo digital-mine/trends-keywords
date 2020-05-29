@@ -1,2 +1,4 @@
 # trends-keywords
-Python code that interats with google trends
+Python code that interacts with google trends
+
+
